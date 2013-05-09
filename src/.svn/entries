@@ -1,0 +1,64 @@
+10
+
+dir
+62
+https://machine-learning-evaluator.googlecode.com/svn/MachineLearning/src
+https://machine-learning-evaluator.googlecode.com/svn
+
+
+
+2012-06-10T21:08:04.893022Z
+62
+dzhyrma@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+edd2fb8f-cf68-99b5-a8a2-58603bcd9a81
+
+
+
+
+
+
+
+
+()
+
+Prediction
+dir
+
+algorithms
+dir
+
+classifierBuilder
+dir
+
+constants
+dir
+
+data
+dir
+
+profitCal
+dir
+
+trueClass
+dir
+
+trueClassifierGenerator
+dir
+
+visualPredictionsView
+dir
+
