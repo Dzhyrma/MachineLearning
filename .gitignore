@@ -120,6 +120,9 @@ UpgradeLog*.XML
 ## Windows
 ############
 
+# SVN files
+.svn/
+
 # Windows image file caches
 Thumbs.db
 
